@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Perech Pr 03.05\Perech Pr 03.05\bin\Debug\Perech Pr 03.05.exe.config
+C:\Users\Kab-35-6\source\repos\Perech Pr 03.05\Perech Pr 03.05\bin\Debug\Perech Pr 03.05.exe
+C:\Users\Kab-35-6\source\repos\Perech Pr 03.05\Perech Pr 03.05\bin\Debug\Perech Pr 03.05.pdb
+C:\Users\Kab-35-6\source\repos\Perech Pr 03.05\Perech Pr 03.05\obj\Debug\Perech Pr 03.05.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Perech Pr 03.05\Perech Pr 03.05\obj\Debug\Perech Pr 03.05.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Perech Pr 03.05\Perech Pr 03.05\obj\Debug\Perech Pr 03.05.exe
+C:\Users\Kab-35-6\source\repos\Perech Pr 03.05\Perech Pr 03.05\obj\Debug\Perech Pr 03.05.pdb
