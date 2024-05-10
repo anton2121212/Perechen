@@ -1,0 +1,6 @@
+C:\Users\Kab-35-6\Desktop\Task44\Task44\obj\Debug\Task44.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Task44\Task44\bin\Debug\Task44.exe.config
+C:\Users\Kab-35-6\Desktop\Task44\Task44\bin\Debug\Task44.exe
+C:\Users\Kab-35-6\Desktop\Task44\Task44\bin\Debug\Task44.pdb
+C:\Users\Kab-35-6\Desktop\Task44\Task44\obj\Debug\Task44.exe
+C:\Users\Kab-35-6\Desktop\Task44\Task44\obj\Debug\Task44.pdb
