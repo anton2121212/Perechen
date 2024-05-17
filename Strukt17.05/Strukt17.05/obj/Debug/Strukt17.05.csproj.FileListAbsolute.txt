@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Strukt17.05\Strukt17.05\bin\Debug\Strukt17.05.exe.config
+C:\Users\Kab-35-6\Desktop\Strukt17.05\Strukt17.05\bin\Debug\Strukt17.05.exe
+C:\Users\Kab-35-6\Desktop\Strukt17.05\Strukt17.05\bin\Debug\Strukt17.05.pdb
+C:\Users\Kab-35-6\Desktop\Strukt17.05\Strukt17.05\obj\Debug\Strukt17.05.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Strukt17.05\Strukt17.05\obj\Debug\Strukt17.05.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Strukt17.05\Strukt17.05\obj\Debug\Strukt17.05.exe
+C:\Users\Kab-35-6\Desktop\Strukt17.05\Strukt17.05\obj\Debug\Strukt17.05.pdb

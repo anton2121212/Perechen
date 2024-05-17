@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Strukt2\Strukt2\bin\Debug\Strukt2.exe.config
+C:\Users\Kab-35-6\Desktop\Strukt2\Strukt2\bin\Debug\Strukt2.exe
+C:\Users\Kab-35-6\Desktop\Strukt2\Strukt2\bin\Debug\Strukt2.pdb
+C:\Users\Kab-35-6\Desktop\Strukt2\Strukt2\obj\Debug\Strukt2.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Strukt2\Strukt2\obj\Debug\Strukt2.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Strukt2\Strukt2\obj\Debug\Strukt2.exe
+C:\Users\Kab-35-6\Desktop\Strukt2\Strukt2\obj\Debug\Strukt2.pdb

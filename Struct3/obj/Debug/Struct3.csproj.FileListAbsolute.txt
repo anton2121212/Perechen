@@ -1,0 +1,6 @@
+C:\Users\Kab-35-6\Desktop\Struct3\bin\Debug\Struct3.exe.config
+C:\Users\Kab-35-6\Desktop\Struct3\bin\Debug\Struct3.exe
+C:\Users\Kab-35-6\Desktop\Struct3\bin\Debug\Struct3.pdb
+C:\Users\Kab-35-6\Desktop\Struct3\obj\Debug\Struct3.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Struct3\obj\Debug\Struct3.exe
+C:\Users\Kab-35-6\Desktop\Struct3\obj\Debug\Struct3.pdb
