@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Task 41\bin\Debug\Task 41.exe.config
+C:\Users\Kab-35-6\Desktop\Task 41\bin\Debug\Task 41.exe
+C:\Users\Kab-35-6\Desktop\Task 41\bin\Debug\Task 41.pdb
+C:\Users\Kab-35-6\Desktop\Task 41\obj\Debug\Task 41.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Task 41\obj\Debug\Task 41.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Task 41\obj\Debug\Task 41.exe
+C:\Users\Kab-35-6\Desktop\Task 41\obj\Debug\Task 41.pdb
