@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Task23\bin\Debug\Task23.exe.config
+C:\Users\Kab-35-6\Desktop\Task23\bin\Debug\Task23.exe
+C:\Users\Kab-35-6\Desktop\Task23\bin\Debug\Task23.pdb
+C:\Users\Kab-35-6\Desktop\Task23\obj\Debug\Task23.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Task23\obj\Debug\Task23.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Task23\obj\Debug\Task23.exe
+C:\Users\Kab-35-6\Desktop\Task23\obj\Debug\Task23.pdb
