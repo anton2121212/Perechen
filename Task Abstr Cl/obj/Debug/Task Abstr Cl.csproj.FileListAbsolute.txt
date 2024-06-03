@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Task Abstr Cl\bin\Debug\Task Abstr Cl.exe.config
+C:\Users\Kab-35-6\Desktop\Task Abstr Cl\bin\Debug\Task Abstr Cl.exe
+C:\Users\Kab-35-6\Desktop\Task Abstr Cl\bin\Debug\Task Abstr Cl.pdb
+C:\Users\Kab-35-6\Desktop\Task Abstr Cl\obj\Debug\Task Abstr Cl.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Task Abstr Cl\obj\Debug\Task Abstr Cl.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Task Abstr Cl\obj\Debug\Task Abstr Cl.exe
+C:\Users\Kab-35-6\Desktop\Task Abstr Cl\obj\Debug\Task Abstr Cl.pdb
